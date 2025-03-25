@@ -58,9 +58,7 @@ Our team works with cutting-edge technologies across multiple disciplines:
 
 We actively participate in competitions including:
 
-- **Robogames**
-- **ComBots Cup**
-- **Robot Battles**
+- **BotBrawl**
 - And we're working to establish more competitions within Canada!
 
 <div align="center">
