@@ -97,5 +97,5 @@ We thank our sponsors and partners who make our work possible:
 
 Interested in contributing to our codebase or designs? Check out our [CONTRIBUTING.md](CONTRIBUTING.md) guide to get started.
 
-![BattleBots TMU Logo]([https://your-team-logo-url.png](https://media.licdn.com/dms/image/v2/D4D0BAQHJr6S6YsLI3A/company-logo_200_200/company-logo_200_200/0/1702766100640?e=1748476800&v=beta&t=iJyREKy7K8siGYKyE-kRhJqDBTZ1Vf6Gmvb7V8SiTQQ))
+![BattleBots TMU Logo]([[https://your-team-logo-url.png](https://media.licdn.com/dms/image/v2/D4D0BAQHJr6S6YsLI3A/company-logo_200_200/company-logo_200_200/0/1702766100640?e=1748476800&v=beta&t=iJyREKy7K8siGYKyE-kRhJqDBTZ1Vf6Gmvb7V8SiTQQ)](https://raw.githubusercontent.com/TMU-BattleBots/.github/refs/heads/main/battlebots.jpeg))
 *Building Champions, Fostering Innovation, Growing Community*
