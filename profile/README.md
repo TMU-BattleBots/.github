@@ -105,7 +105,7 @@ We welcome students of all skill levels and backgrounds:
 
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/tmubattlebots/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/tmu-battlebots/posts/?feedView=all)
-[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />]([https://battlebotstmu.ca](https://tmu-battlebots.github.io/TMU-Battlebots/))
+[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white" />]((https://tmu-battlebots.github.io/TMU-Battlebots/))
 
 **Email:** battlebots@mues.ca
 
